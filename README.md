@@ -16,3 +16,5 @@
 
 - Windows OS
 - Go installed
+
+Idea from: https://github.com/Catalyst-42/Mousewalk
